@@ -1,1 +1,1 @@
-# GradlePluginTrain
+# GradlePlugin学习笔记

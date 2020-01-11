@@ -1,0 +1,6 @@
+[submodule "GradlePluginTrainInAndroid"]
+	path = GradlePluginTrainInAndroid
+	url = https://github.com/tck8888/GradlePluginTrainInAndroid.git
+[submodule "MyGradlePluginTrain"]
+	path = MyGradlePluginTrain
+	url = https://github.com/tck8888/MyGradlePluginTrain.git
