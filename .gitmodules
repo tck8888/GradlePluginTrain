@@ -4,3 +4,6 @@
 [submodule "MyGradlePluginTrain"]
 	path = MyGradlePluginTrain
 	url = https://github.com/tck8888/MyGradlePluginTrain.git
+[submodule "AutoUpLoadApk"]
+	path = AutoUpLoadApk
+	url = https://github.com/tck8888/AutoUpLoadApk.git
